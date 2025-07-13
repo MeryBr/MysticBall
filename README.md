@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔮 MysticBall
 
 A magic ball that not only responds... *feels*.  
