@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/i18n.ts","./src/main.tsx","./src/vanta.d.ts","./src/vite-env.d.ts","./src/components/answerdisplay.tsx","./src/components/magicsphere.tsx","./src/components/mysticfogbackground.tsx","./src/components/questioninput.tsx","./src/components/sparkleoverlay.tsx","./src/components/starryfogcursor.tsx"],"errors":true,"version":"5.8.3"}

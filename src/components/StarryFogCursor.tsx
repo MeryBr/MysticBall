@@ -2,7 +2,7 @@ import { useEffect, useRef } from "react";
 import { gsap } from "gsap";
 
 const NUM_STARS = 8;
-const STAR_RADIUS = 36; // px (radio de la órbita)
+const STAR_RADIUS = 36;
 const STAR_SIZE_MIN = 2;
 const STAR_SIZE_MAX = 5;
 
@@ -24,7 +24,7 @@ export const StarryFogCursor = () => {
     const starsMeta = useRef<StarMeta[]>(
         Array.from({ length: NUM_STARS }).map(() => ({
             angle: random(0, Math.PI * 2),
-            speed: random(0.001, 0.005), // <<< Ahora lento y suave!
+            speed: random(0.001, 0.005),
             radius: random(STAR_RADIUS * 0.7, STAR_RADIUS * 1.3),
             size: random(STAR_SIZE_MIN, STAR_SIZE_MAX),
         }))
@@ -87,7 +87,7 @@ export const StarryFogCursor = () => {
             {starsMeta.current.map((meta, i) => (
                 <div
                     key={i}
-                    ref={el => { starRefs.current[i] = el; }} // <--- ¡Corregido!
+                    ref={el => { starRefs.current[i] = el; }}
                     className="absolute"
                     style={{
                         width: meta.size,
