@@ -1,0 +1,39 @@
+{
+    "thinking": "🔄 The ball is thinking...",
+    "error": "⚠️ The ball is glitching. Try again later.",
+    "glitches": [
+        "💥 The ball broke with your question!",
+        "😵‍💫 The ball glitched... Try again later.",
+        "🧠 Consciousness overload. No response received.",
+        "👁 The darkness remains silent. So do I.",
+        "🔇 The ball refuses to speak to you."
+    ],
+    "placeholder": "Ask your question...",
+    "ask": "Ask",
+    "clear": "Clear",
+    "askLabel": "You asked:",
+    "restoreBall": "Restore the ball",
+    "brokenWords": [
+        "broken",
+        "⚡"
+    ],
+    "answers": [
+        "Yes.",
+        "No.",
+        "Maybe...",
+        "Ask your best friend.",
+        "Trust your instinct.",
+        "I don't have enough energy to answer you.",
+        "The answer is in your heart.",
+        "I don't know, ask again!",
+        "The universe says yes.",
+        "The universe says no.",
+        "Today is not the day to know.",
+        "Do you really want to know?",
+        "Ask the moon.",
+        "Ask another question, I'm too lazy for this one.",
+        "Draw your own conclusions, I'm just a ball.",
+        "Have you tried going for a walk first?",
+        "Change the question and maybe I'll answer."
+    ]
+}

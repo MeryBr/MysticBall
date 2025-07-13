@@ -1,0 +1,11 @@
+@import "tailwindcss/preflight";
+
+
+@import url('https://fonts.googleapis.com/css2?family=WindSong:wght@400;500&display=swap');
+
+html,
+body,
+#root,
+.app {
+    background: transparent !important;
+}

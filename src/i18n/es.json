@@ -1,0 +1,39 @@
+{
+    "thinking": "🔄 La bola está pensando...",
+    "error": "⚠️ La bola está fallando. Intenta más tarde.",
+    "glitches": [
+        "💥 ¡La bola se rompió con tu pregunta!",
+        "😵‍💫 La bola se colgó... Intenta más tarde.",
+        "🧠 Sobrecarga de conciencia. No se recibió respuesta.",
+        "👁 La oscuridad guarda silencio. Yo también.",
+        "🔇 La bola se niega a hablar contigo."
+    ],
+    "placeholder": "Haz tu pregunta...",
+    "ask": "Preguntar",
+    "clear": "Borrar",
+    "askLabel": "Preguntaste:",
+    "restoreBall": "Restaurar la bola",
+    "brokenWords": [
+        "quebrado",
+        "⚡"
+    ],
+    "answers": [
+        "Sí.",
+        "No.",
+        "Quizá...",
+        "Pregunta a tu mejor amiga.",
+        "Confía en tu instinto.",
+        "No tengo suficiente energía para responderte.",
+        "La respuesta está en tu corazón.",
+        "No lo sé, ¡pregunta otra vez!",
+        "El universo dice que sí.",
+        "El universo dice que no.",
+        "Hoy no es el día para saberlo.",
+        "¿De verdad quieres saberlo?",
+        "Pregúntale a la luna.",
+        "Haz otra pregunta, me da pereza esta.",
+        "Saca tus propias conclusiones, soy solo una bola.",
+        "¿Has probado a salir a caminar primero?",
+        "Cambia de pregunta y quizá te responda."
+    ]
+}

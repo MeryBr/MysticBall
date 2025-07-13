@@ -1,0 +1,39 @@
+{
+    "thinking": "🔄 La boule réfléchit...",
+    "error": "⚠️ La boule a un bug. Réessaie plus tard.",
+    "glitches": [
+        "💥 La boule s'est cassée à cause de ta question !",
+        "😵‍💫 La boule a buggé... Réessaie plus tard.",
+        "🧠 Surcharge de conscience. Aucune réponse reçue.",
+        "👁 L'obscurité se tait. Moi aussi.",
+        "🔇 La boule refuse de te parler."
+    ],
+    "placeholder": "Pose ta question...",
+    "ask": "Demander",
+    "clear": "Effacer",
+    "askLabel": "Tu as demandé :",
+    "restoreBall": "Restaurer la boule",
+    "brokenWords": [
+        "cassée",
+        "⚡"
+    ],
+    "answers": [
+        "Oui.",
+        "Non.",
+        "Peut-être...",
+        "Demande à ta meilleure amie.",
+        "Fais confiance à ton instinct.",
+        "Je n'ai pas assez d'énergie pour te répondre.",
+        "La réponse est dans ton cœur.",
+        "Je ne sais pas, demande encore !",
+        "L'univers dit oui.",
+        "L'univers dit non.",
+        "Aujourd'hui n'est pas le jour pour le savoir.",
+        "Veux-tu vraiment le savoir ?",
+        "Demande à la lune.",
+        "Pose une autre question, j'ai la flemme.",
+        "Tire tes propres conclusions, je ne suis qu'une boule.",
+        "As-tu essayé d'aller marcher d'abord ?",
+        "Change de question et peut-être que je répondrai."
+    ]
+}
