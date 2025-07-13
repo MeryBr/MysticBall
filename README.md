@@ -7,7 +7,7 @@ You ask something, it answers. Sometimes good, sometimes... it breaks. 🤯
 ## What's in it?
 
 - React + TypeScript 
-- Three.js with @react-three/fiber for the magical floating ball
+- Three.js with @react-three/fiber
 - TailwindCSS 
 - i18next (multilanguage)
 - GLSL shaders 
